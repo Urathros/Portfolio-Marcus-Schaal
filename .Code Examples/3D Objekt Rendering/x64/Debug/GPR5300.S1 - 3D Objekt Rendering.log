@@ -1,0 +1,1183 @@
+﻿  Camera.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  Direct3D.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\direct3d.cpp(148): warning C4244: "=": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\direct3d.cpp(149): warning C4244: "=": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\direct3d.cpp(187): warning C4244: "Argument": Konvertierung von "const UINT" in "FLOAT", möglicher Datenverlust
+  DirectInput.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(26): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(31): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(36): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(41): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(53): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(57): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(61): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\directinput.cpp(65): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+  Light.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  RasterizerStage.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  Material.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  Mesh.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\renderobject\mesh.cpp(82): warning C4267: "Argument": Konvertierung von "size_t" nach "UINT", Datenverlust möglich
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\renderobject\mesh.cpp(134): warning C4267: "Argument": Konvertierung von "size_t" nach "UINT", Datenverlust möglich
+  RenderObject.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\directx\renderobject\renderobject.cpp(22): warning C4267: "=": Konvertierung von "size_t" nach "UINT", Datenverlust möglich
+  Texture.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  Engine.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Scene.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Time.cpp
+  main.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Window.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2662): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2663): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2664): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2665): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2666): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2667): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2668): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2689): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2690): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2691): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2694): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2695): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2698): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2702): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2712): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2713): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2715): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2716): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2717): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2727): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2728): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2729): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2730): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2731): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2732): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2742): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2743): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamath.h(2754): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(2254): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4523): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4577): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4639): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4707): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4770): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathconvert.inl(4832): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathvector.inl(1269): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(518): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\xnamathmisc.inl(519): warning C4838: Konvertierung von "unsigned int" zu "INT" erfordert eine einschränkende Konvertierung
+  WindowClass.cpp
+  Code wird generiert...
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\window\window.cpp(44): warning C4715: "WndProc": Nicht alle Codepfade geben einen Wert zurück.
+d:\downloads\3d objekt rendering (1)\3d objekt rendering\code\main.cpp(55): warning C4715: "Update": Nicht alle Codepfade geben einen Wert zurück.
+  GPR5300.S1 - 3D Objekt Rendering.vcxproj -> D:\Downloads\3D Objekt Rendering (1)\3D Objekt Rendering\x64\Debug\3D Objekt Rendering.exe
