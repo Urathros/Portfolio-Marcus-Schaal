@@ -1,7 +1,7 @@
 /*****************************************************************************
 * Project	: Genius Template Library
 * File		: GeniusFunction.h
-* Date		: 22.10.2021
+* Date		: 17.10.2021
 * Author	: Marcus Schaal (MS)
 * Language	: C++14
 *
